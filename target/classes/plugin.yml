@@ -1,0 +1,7 @@
+name: Takarakuzi
+version: 1.0.0
+main: aquarius0715.takarakuzi.Takarakuzi
+api-version: 1.12.2
+commands:
+  takarakuzi:
+    usage: /<commnad>
