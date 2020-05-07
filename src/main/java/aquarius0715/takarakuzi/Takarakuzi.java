@@ -100,6 +100,7 @@ public final class Takarakuzi extends JavaPlugin implements Listener {
             sender.sendMessage("/takarakuzi 宝くじGUIを開きます");
             sender.sendMessage("/takarakuzi loto<number> 知りたいロトの過去排出番号が見れます");
             sender.sendMessage("=================宝くじジェネレータープラグイン================");
+            return true;
         }
         return false;
     }
